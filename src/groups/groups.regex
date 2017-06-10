@@ -1,0 +1,4 @@
+(./files/Close-.*)\.html.\n\1\.html-<h2>Major Group (\d+)\: (.*?)</h2>\n\1.*\n\1\.html\:<span.*?>(.*?)</span>\n\1.*?\n\1.*?\n\1.*?\n
+$2\t$3\t$4\n
+
+--\n--\n

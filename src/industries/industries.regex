@@ -1,0 +1,14 @@
+(^.*?)\.display\.html-\n\1\.display\.html-<h2>Description for (\d+)\: (.*?)</h2>\n\1\.display\.html-<p><.*?>Division (\w)\: (.*?)</a>.*\n\1\.display\.html-<a.*?>Major Group (\d+)\: (.*?)</a></p>\n\1\.display\.html\:<p>Industry Group (\d+)\: (.*?)</p>\n\1\.display\.html-.*?\n.*?\n\1\.*display\.html-<span.*?>(.*?)</span><UL>(.*?)</ul>\n\1.*?\.display\.html.*?
+industry code\t$2\tindustry name\t$3\tdivision code\t$4\tdivision name\t$5\tmajor group code\t$6\tmajor group name\t$7\tindustry group code\t$8\tindustry group name\t$9\tindustry definition\t$10\tindustry list\t$11\n
+
+(^.*?)\.display\.html-\n.*?\.display\.html-<h2>Description for (\d+)\: (.*?)</h2>\n\1\.display\.html-<p><.*?>Division (\w)\: (.*?)</a>.*\n\1\.display\.html-<a.*?>Major Group (\d+)\: (.*?)</a></p>\n\1\.display\.html\:<p>Industry Group (\d+)\: (.*?)</p>\n\1\.display\.html-.*?\n.*?\n--\n\1\.display\.html-<.*?\n\1\.display\.html-<.*?\n\1\.display\.html\:<span.*?>(.*?)</span><UL>(.*?)</ul>\n\1\.display\.html-<.*\n\1\.display\.html-<.*?\n\1\.display\.html-<.*?\n\1\.display\.html-<.*?\n--\n--
+industry code\t$2\tindustry name\t$3\tdivision code\t$4\tdivision name\t$5\tmajor group code\t$6\tmajor group name\t$7\tindustry group code\t$8\tindustry group name\t$9\tindustry definition\t$10\tindustry list\t$11\n
+
+^(.*?)\.display\.html-\n\1\.display\.html-<h2>Description for (\d+)\: (.*?)</h2>\n\1\.display\.html-<p><a .*?>Division (\w)\: (.*?)<.*?\n\1\.display\.html-<a .*?>Major Group (\d+)\: (.*?)<.*?\n\1\.display\.html\:<p>Industry Group (\d+)\: (.*?)</p>\n\1\.display\.html-.*?\n\1.*?\n\1.*?.*?-(<ul>(.*?)</ul>)?.*?\n.*?\n
+industry code\t$2\tindustry name\t$3\tdivision code\t$4\tdivision name\t$5\tmajor group code\t$6\tmajor group name\t$7\tindustry group code\t$8\tindustry group name\t$9\tindustry definition\t\tindustry list\t$11\n
+
+-</div><br/>
+
+--
+
+\n+

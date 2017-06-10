@@ -1,0 +1,2 @@
+<h2>Division (\w)\: (.*?)</h2>\n<div>\n<span class="blueTen">(.*?)<
+$1\t$2\t$3\n<
