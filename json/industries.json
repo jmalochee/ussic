@@ -1,14 +1,5 @@
 [
   [
-    "industry_code",
-  	"industry_name",
-  	"division_code",
-  	"major_group_code",
-  	"industry_group_code",
-  	"industry_definition",
-  	"industry_definition_list"
-  ],
-  [
   	"111",
   	"Wheat",
   	"A",
@@ -8797,7 +8788,7 @@
   	"I",
   	"89",
   	"899",
-  	"",
+  	"Services, Not Elsewhere Classified",
   	["Authors, Artists, and Related Technical Services, Independent","Record Production","Scientific and Related Consulting Services","Music Publishing","Actuarial Consulting","All Other Information Providers","Environmental Consultants "]
   ],
   [
@@ -9049,7 +9040,7 @@
   	"J",
   	"99",
   	"999",
-  	"",
+  	"Nonclassifiable Establishments",
   	""
   ]
 ]

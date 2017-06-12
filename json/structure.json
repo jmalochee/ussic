@@ -1,0 +1,23 @@
+[
+  "division_code",
+  "division_name",
+  "division_definition"
+],
+[
+  "major_group_code",
+  "major_group_name",
+  "major_group_definition"
+],
+[
+  "industry_group_code",
+  "industry_group_name"
+],
+[
+  "industry_code",
+  "industry_name",
+  "division_code",
+  "major_group_code",
+  "industry_group_code",
+  "industry_definition",
+  "industry_definition_list"
+]
