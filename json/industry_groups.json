@@ -1,0 +1,1666 @@
+[
+  [
+  	"11",
+  	"Cash Grains"
+  ],
+  [
+  	"13",
+  	"Field Crops, Except Cash Grains"
+  ],
+  [
+  	"16",
+  	"Vegetables And Melons"
+  ],
+  [
+  	"17",
+  	"Fruits And Tree Nuts"
+  ],
+  [
+  	"18",
+  	"Horticultural Specialties"
+  ],
+  [
+  	"19",
+  	"General Farms, Primarily Crop"
+  ],
+  [
+  	"21",
+  	"Livestock, Except Dairy And Poultry"
+  ],
+  [
+  	"24",
+  	"Dairy Farms"
+  ],
+  [
+  	"25",
+  	"Poultry And Eggs"
+  ],
+  [
+  	"27",
+  	"Animal Specialties"
+  ],
+  [
+  	"29",
+  	"General Farms, Primarily Livestock And Animal"
+  ],
+  [
+  	"71",
+  	"Soil Preparation Services"
+  ],
+  [
+  	"72",
+  	"Crop Services"
+  ],
+  [
+  	"74",
+  	"Veterinary Services"
+  ],
+  [
+  	"75",
+  	"Animal Services, Except Veterinary"
+  ],
+  [
+  	"76",
+  	"Farm Labor And Management Services"
+  ],
+  [
+  	"78",
+  	"Landscape And Horticultural Services"
+  ],
+  [
+  	"81",
+  	"Timber Tracts"
+  ],
+  [
+  	"83",
+  	"Forest Nurseries And Gathering Of Forest"
+  ],
+  [
+  	"85",
+  	"Forestry Services"
+  ],
+  [
+  	"91",
+  	"Commercial Fishing"
+  ],
+  [
+  	"92",
+  	"Fish Hatcheries And Preserves"
+  ],
+  [
+  	"97",
+  	"Hunting And Trapping, And Game Propagation"
+  ],
+  [
+  	"101",
+  	"Iron Ores"
+  ],
+  [
+  	"102",
+  	"Copper Ores"
+  ],
+  [
+  	"103",
+  	"Lead And Zinc Ores"
+  ],
+  [
+  	"104",
+  	"Gold And Silver Ores"
+  ],
+  [
+  	"106",
+  	"Ferroalloy Ores, Except Vanadium"
+  ],
+  [
+  	"108",
+  	"Metal Mining Services"
+  ],
+  [
+  	"109",
+  	"Miscellaneous Metal Ores"
+  ],
+  [
+  	"122",
+  	"Bituminous Coal And Lignite Mining"
+  ],
+  [
+  	"123",
+  	"Anthracite Mining"
+  ],
+  [
+  	"124",
+  	"Coal Mining Services"
+  ],
+  [
+  	"131",
+  	"Crude Petroleum And Natural Gas"
+  ],
+  [
+  	"132",
+  	"Natural Gas Liquids"
+  ],
+  [
+  	"138",
+  	"Oil And Gas Field Services"
+  ],
+  [
+  	"141",
+  	"Dimension Stone"
+  ],
+  [
+  	"142",
+  	"Crushed And Broken Stone, Including Riprap"
+  ],
+  [
+  	"144",
+  	"Sand And Gravel"
+  ],
+  [
+  	"145",
+  	"Clay, Ceramic, And Refractory Minerals"
+  ],
+  [
+  	"147",
+  	"Chemical And Fertilizer Mineral Mining"
+  ],
+  [
+  	"148",
+  	"Nonmetallic Minerals Services, Except Fuels"
+  ],
+  [
+  	"149",
+  	"Miscellaneous Nonmetallic Minerals, Except"
+  ],
+  [
+  	"152",
+  	"General Building Contractors-residential"
+  ],
+  [
+  	"153",
+  	"Operative Builders"
+  ],
+  [
+  	"154",
+  	"General Building Contractors-nonresidential"
+  ],
+  [
+  	"161",
+  	"Highway And Street Construction, Except"
+  ],
+  [
+  	"162",
+  	"Heavy Construction, Except Highway And Street"
+  ],
+  [
+  	"171",
+  	"Plumbing, Heating And Air-conditioning"
+  ],
+  [
+  	"172",
+  	"Painting And Paper Hanging"
+  ],
+  [
+  	"173",
+  	"Electrical Work"
+  ],
+  [
+  	"174",
+  	"Masonry, Stonework, Tile Setting, And Plastering"
+  ],
+  [
+  	"175",
+  	"Carpentry And Floor Work"
+  ],
+  [
+  	"176",
+  	"Roofing, Siding, And Sheet Metal Work"
+  ],
+  [
+  	"177",
+  	"Concrete Work"
+  ],
+  [
+  	"178",
+  	"Water Well Drilling"
+  ],
+  [
+  	"179",
+  	"Miscellaneous Special Trade Contractors"
+  ],
+  [
+  	"201",
+  	"Meat Products"
+  ],
+  [
+  	"202",
+  	"Dairy Products"
+  ],
+  [
+  	"203",
+  	"Canned, Frozen, And Preserved Fruits, Vegetables, and Food Specialties"
+  ],
+  [
+  	"204",
+  	"Grain Mill Products"
+  ],
+  [
+  	"205",
+  	"Bakery Products"
+  ],
+  [
+  	"206",
+  	"Sugar And Confectionery Products"
+  ],
+  [
+  	"207",
+  	"Fats And Oils"
+  ],
+  [
+  	"208",
+  	"Beverages"
+  ],
+  [
+  	"209",
+  	"Miscellaneous Food Preparations And Kindred"
+  ],
+  [
+  	"211",
+  	"Cigarettes"
+  ],
+  [
+  	"212",
+  	"Cigars"
+  ],
+  [
+  	"213",
+  	"Chewing And Smoking Tobacco And Snuff"
+  ],
+  [
+  	"214",
+  	"Tobacco Stemming And Redrying"
+  ],
+  [
+  	"221",
+  	"Broadwoven Fabric Mills, Cotton"
+  ],
+  [
+  	"222",
+  	"Broadwoven Fabric Mills, Manmade Fiber And Silk"
+  ],
+  [
+  	"223",
+  	"Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)"
+  ],
+  [
+  	"224",
+  	"Narrow Fabric And Other Smallwares Mills, Cotton, Wool, Silk, and Manmade Fiber"
+  ],
+  [
+  	"225",
+  	"Knitting Mills"
+  ],
+  [
+  	"226",
+  	"Dyeing And Finishing Textiles, Except Wool Fabrics"
+  ],
+  [
+  	"227",
+  	"Carpets And Rugs"
+  ],
+  [
+  	"228",
+  	"Yarn And Thread Mills"
+  ],
+  [
+  	"229",
+  	"Miscellaneous Textile Goods"
+  ],
+  [
+  	"231",
+  	"Men's And Boys' Suits, Coats, And Overcoats"
+  ],
+  [
+  	"232",
+  	"Men's And Boys' Furnishings, Work Clothing, And Allied Garments"
+  ],
+  [
+  	"233",
+  	"Women's, Misses', And Juniors' Outerwear"
+  ],
+  [
+  	"234",
+  	"Women's, Misses', Children's, And Infants'"
+  ],
+  [
+  	"235",
+  	"Hats, Caps, And Millinery"
+  ],
+  [
+  	"236",
+  	"Girls', Children's, And Infants' Outerwear"
+  ],
+  [
+  	"237",
+  	"Fur Goods"
+  ],
+  [
+  	"238",
+  	"Miscellaneous Apparel And Accessories"
+  ],
+  [
+  	"239",
+  	"Miscellaneous Fabricated Textile Products"
+  ],
+  [
+  	"241",
+  	"Logging"
+  ],
+  [
+  	"242",
+  	"Sawmills And Planing Mills"
+  ],
+  [
+  	"243",
+  	"Millwork, Veneer, Plywood, And Structural Wood"
+  ],
+  [
+  	"244",
+  	"Wood Containers"
+  ],
+  [
+  	"245",
+  	"Wood Buildings And Mobile Homes"
+  ],
+  [
+  	"249",
+  	"Miscellaneous Wood Products"
+  ],
+  [
+  	"251",
+  	"Household Furniture"
+  ],
+  [
+  	"252",
+  	"Office Furniture"
+  ],
+  [
+  	"253",
+  	"Public Building And Related Furniture"
+  ],
+  [
+  	"254",
+  	"Partitions, Shelving, Lockers, And Office And"
+  ],
+  [
+  	"259",
+  	"Miscellaneous Furniture And Fixtures"
+  ],
+  [
+  	"261",
+  	"Pulp Mills"
+  ],
+  [
+  	"262",
+  	"Paper Mills"
+  ],
+  [
+  	"263",
+  	"Paperboard Mills"
+  ],
+  [
+  	"265",
+  	"Paperboard Containers And Boxes"
+  ],
+  [
+  	"267",
+  	"Converted Paper And Paperboard Products, Except"
+  ],
+  [
+  	"271",
+  	"Newspapers: Publishing, Or Publishing And Printing"
+  ],
+  [
+  	"272",
+  	"Periodicals: Publishing, Or Publishing And Printing"
+  ],
+  [
+  	"273",
+  	"Books"
+  ],
+  [
+  	"274",
+  	"Miscellaneous Publishing"
+  ],
+  [
+  	"275",
+  	"Commercial Printing"
+  ],
+  [
+  	"276",
+  	"Manifold Business Forms"
+  ],
+  [
+  	"277",
+  	"Greeting Cards"
+  ],
+  [
+  	"278",
+  	"Blankbooks, Looseleaf Binders, And Bookbinding"
+  ],
+  [
+  	"279",
+  	"Service Industries For The Printing Trade"
+  ],
+  [
+  	"281",
+  	"Industrial Inorganic Chemicals"
+  ],
+  [
+  	"282",
+  	"Plastics Materials And Synthetic Resins, Synthetic"
+  ],
+  [
+  	"283",
+  	"Drugs"
+  ],
+  [
+  	"284",
+  	"Soap, Detergents, And Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet Preparations"
+  ],
+  [
+  	"285",
+  	"Paints, Varnishes, Lacquers, Enamels, And Allied"
+  ],
+  [
+  	"286",
+  	"Industrial Organic Chemicals"
+  ],
+  [
+  	"287",
+  	"Agricultural Chemicals"
+  ],
+  [
+  	"289",
+  	"Miscellaneous Chemical Products"
+  ],
+  [
+  	"291",
+  	"Petroleum Refining"
+  ],
+  [
+  	"295",
+  	"Asphalt Paving And Roofing Materials"
+  ],
+  [
+  	"299",
+  	"Miscellaneous Products Of Petroleum And Coal"
+  ],
+  [
+  	"301",
+  	"Tires And Inner Tubes"
+  ],
+  [
+  	"302",
+  	"Rubber And Plastics Footwear"
+  ],
+  [
+  	"305",
+  	"Gaskets, Packing, And Sealing Devices And Rubber"
+  ],
+  [
+  	"306",
+  	"Fabricated Rubber Products, Not Elsewhere"
+  ],
+  [
+  	"308",
+  	"Miscellaneous Plastics Products"
+  ],
+  [
+  	"311",
+  	"Leather Tanning And Finishing"
+  ],
+  [
+  	"313",
+  	"Boot And Shoe Cut Stock And Findings"
+  ],
+  [
+  	"314",
+  	"Footwear, Except Rubber"
+  ],
+  [
+  	"315",
+  	"Leather Gloves And Mittens"
+  ],
+  [
+  	"316",
+  	"Luggage"
+  ],
+  [
+  	"317",
+  	"Handbags And Other Personal Leather Goods"
+  ],
+  [
+  	"319",
+  	"Leather Goods, Not Elsewhere Classified"
+  ],
+  [
+  	"321",
+  	"Flat Glass"
+  ],
+  [
+  	"322",
+  	"Glass And Glassware, Pressed Or Blown"
+  ],
+  [
+  	"323",
+  	"Glass Products, Made Of Purchased Glass"
+  ],
+  [
+  	"324",
+  	"Cement, Hydraulic"
+  ],
+  [
+  	"325",
+  	"Structural Clay Products"
+  ],
+  [
+  	"326",
+  	"Pottery And Related Products"
+  ],
+  [
+  	"327",
+  	"Concrete, Gypsum, And Plaster Products"
+  ],
+  [
+  	"328",
+  	"Cut Stone And Stone Products"
+  ],
+  [
+  	"329",
+  	"Abrasive, Asbestos, And Miscellaneous"
+  ],
+  [
+  	"331",
+  	"Steel Works, Blast Furnaces, And Rolling And Finishing Mills"
+  ],
+  [
+  	"332",
+  	"Iron And Steel Foundries"
+  ],
+  [
+  	"333",
+  	"Primary Smelting And Refining Of Nonferrous"
+  ],
+  [
+  	"334",
+  	"Secondary Smelting And Refining Of Nonferrous"
+  ],
+  [
+  	"335",
+  	"Rolling, Drawing, And Extruding Of Nonferrous"
+  ],
+  [
+  	"336",
+  	"Nonferrous Foundries (castings)"
+  ],
+  [
+  	"339",
+  	"Miscellaneous Primary Metal Products"
+  ],
+  [
+  	"341",
+  	"Metal Cans And Shipping Containers"
+  ],
+  [
+  	"342",
+  	"Cutlery, Handtools, And General Hardware"
+  ],
+  [
+  	"343",
+  	"Heating Equipment, Except Electric And Warm Air;"
+  ],
+  [
+  	"344",
+  	"Fabricated Structural Metal Products"
+  ],
+  [
+  	"345",
+  	"Screw Machine Products, And Bolts, Nuts, Screws, Rivets, And Washers"
+  ],
+  [
+  	"346",
+  	"Metal Forgings And Stampings"
+  ],
+  [
+  	"347",
+  	"Coating, Engraving, And Allied Services"
+  ],
+  [
+  	"348",
+  	"Ordnance And Accessories, Except Vehicles And Guided Missiles"
+  ],
+  [
+  	"349",
+  	"Miscellaneous Fabricated Metal Products"
+  ],
+  [
+  	"351",
+  	"Engines And Turbines"
+  ],
+  [
+  	"352",
+  	"Farm And Garden Machinery And Equipment"
+  ],
+  [
+  	"353",
+  	"Construction, Mining, And Materials Handling"
+  ],
+  [
+  	"354",
+  	"Metalworking Machinery And Equipment"
+  ],
+  [
+  	"355",
+  	"Special Industry Machinery, Except Metalworking"
+  ],
+  [
+  	"356",
+  	"General Industrial Machinery And Equipment"
+  ],
+  [
+  	"357",
+  	"Computer And Office Equipment"
+  ],
+  [
+  	"358",
+  	"Refrigeration And Service Industry Machinery"
+  ],
+  [
+  	"359",
+  	"Miscellaneous Industrial And Commercial"
+  ],
+  [
+  	"361",
+  	"Electric Transmission And Distribution Equipment"
+  ],
+  [
+  	"362",
+  	"Electrical Industrial Apparatus"
+  ],
+  [
+  	"363",
+  	"Household Appliances"
+  ],
+  [
+  	"364",
+  	"Electric Lighting And Wiring Equipment"
+  ],
+  [
+  	"365",
+  	"Household Audio And Video Equipment, And Audio"
+  ],
+  [
+  	"366",
+  	"Communications Equipment"
+  ],
+  [
+  	"367",
+  	"Electronic Components And Accessories"
+  ],
+  [
+  	"369",
+  	"Miscellaneous Electrical Machinery, Equipment, and Supplies"
+  ],
+  [
+  	"371",
+  	"Motor Vehicles And Motor Vehicle Equipment"
+  ],
+  [
+  	"372",
+  	"Aircraft And Parts"
+  ],
+  [
+  	"373",
+  	"Ship And Boat Building And Repairing"
+  ],
+  [
+  	"374",
+  	"Railroad Equipment"
+  ],
+  [
+  	"375",
+  	"Motorcycles, Bicycles, And Parts"
+  ],
+  [
+  	"376",
+  	"Guided Missiles And Space Vehicles And Parts"
+  ],
+  [
+  	"379",
+  	"Miscellaneous Transportation Equipment"
+  ],
+  [
+  	"381",
+  	"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instruments, and Equipment"
+  ],
+  [
+  	"382",
+  	"Laboratory Apparatus And Analytical, Optical,  Measuring, and Controlling Instruments"
+  ],
+  [
+  	"384",
+  	"Surgical, Medical, And Dental Instruments And Supplies"
+  ],
+  [
+  	"385",
+  	"Ophthalmic Goods"
+  ],
+  [
+  	"386",
+  	"Photographic Equipment And Supplies"
+  ],
+  [
+  	"387",
+  	"Watches, Clocks, Clockwork Operated Devices, and Parts"
+  ],
+  [
+  	"391",
+  	"Jewelry, Silverware, And Plated Ware"
+  ],
+  [
+  	"393",
+  	"Musical Instruments"
+  ],
+  [
+  	"394",
+  	"Dolls, Toys, Games And Sporting And Athletic"
+  ],
+  [
+  	"395",
+  	"Pens, Pencils, And Other Artists Materials"
+  ],
+  [
+  	"396",
+  	"Costume Jewelry, Costume Novelties, Buttons, And Miscellaneous Notions, Ecept Precious Metal"
+  ],
+  [
+  	"399",
+  	"Miscellaneous Manufacturing Industries"
+  ],
+  [
+  	"401",
+  	"Railroads"
+  ],
+  [
+  	"411",
+  	"Local And Suburban Passenger Transportation"
+  ],
+  [
+  	"412",
+  	"Taxicabs"
+  ],
+  [
+  	"413",
+  	"Intercity And Rural Bus Transportation"
+  ],
+  [
+  	"414",
+  	"Bus Charter Service"
+  ],
+  [
+  	"415",
+  	"School Buses"
+  ],
+  [
+  	"417",
+  	"Terminal And Service Facilities For Motor Vehicle"
+  ],
+  [
+  	"421",
+  	"Trucking And Courier Services, Except Air"
+  ],
+  [
+  	"422",
+  	"Public Warehousing And Storage"
+  ],
+  [
+  	"423",
+  	"Terminal And Joint Terminal Maintenance"
+  ],
+  [
+  	"431",
+  	"United States Postal Service"
+  ],
+  [
+  	"441",
+  	"Deep Sea Foreign Transportation Of Freight"
+  ],
+  [
+  	"442",
+  	"Deep Sea Domestic Transportation Of Freight"
+  ],
+  [
+  	"443",
+  	"Freight Transportation On The Great Lakes-st."
+  ],
+  [
+  	"444",
+  	"Water Transportation Of Freight, Not Elsewhere"
+  ],
+  [
+  	"448",
+  	"Water Transportation Of Passengers"
+  ],
+  [
+  	"449",
+  	"Services Incidental To Water Transportation"
+  ],
+  [
+  	"451",
+  	"Air Transportation, Scheduled, And Air Courier"
+  ],
+  [
+  	"452",
+  	"Air Transportation, Nonscheduled"
+  ],
+  [
+  	"458",
+  	"Airports, Flying Fields, And Airport Terminal"
+  ],
+  [
+  	"461",
+  	"Pipelines, Except Natural Gas"
+  ],
+  [
+  	"472",
+  	"Arrangement Of Passenger Transportation"
+  ],
+  [
+  	"473",
+  	"Arrangement Of Transportation Of Freight And Cargo"
+  ],
+  [
+  	"474",
+  	"Rental Of Railroad Cars"
+  ],
+  [
+  	"478",
+  	"Miscellaneous Services Incidental To Transportation"
+  ],
+  [
+  	"481",
+  	"Telephone Communications"
+  ],
+  [
+  	"482",
+  	"Telegraph And Other Message Communications"
+  ],
+  [
+  	"483",
+  	"Radio And Television Broadcasting Stations"
+  ],
+  [
+  	"484",
+  	"Cable And Other Pay Television Services"
+  ],
+  [
+  	"489",
+  	"Communications Services, Not Elsewhere"
+  ],
+  [
+  	"491",
+  	"Electric Services"
+  ],
+  [
+  	"492",
+  	"Gas Production And Distribution"
+  ],
+  [
+  	"493",
+  	"Combination Electric And Gas, And Other Utility"
+  ],
+  [
+  	"494",
+  	"Water Supply"
+  ],
+  [
+  	"495",
+  	"Sanitary Services"
+  ],
+  [
+  	"496",
+  	"Steam And Air-conditioning Supply"
+  ],
+  [
+  	"497",
+  	"Irrigation Systems"
+  ],
+  [
+  	"501",
+  	"Motor Vehicles And Motor Vehicle Parts And Supplies"
+  ],
+  [
+  	"502",
+  	"Furniture And Home Furnishings"
+  ],
+  [
+  	"503",
+  	"Lumber And Other Construction Materials"
+  ],
+  [
+  	"504",
+  	"Professional And Commercial Equipment And Supplies"
+  ],
+  [
+  	"505",
+  	"Metals And Minerals, Except Petroleum"
+  ],
+  [
+  	"506",
+  	"Electrical Goods"
+  ],
+  [
+  	"507",
+  	"Hardware, And Plumbing And Heating Equipment"
+  ],
+  [
+  	"508",
+  	"Machinery, Equipment, And Supplies"
+  ],
+  [
+  	"509",
+  	"Miscellaneous Durable Goods"
+  ],
+  [
+  	"511",
+  	"Paper And Paper Products"
+  ],
+  [
+  	"512",
+  	"Drugs, Drug Proprietaries, And Druggists' Sundries"
+  ],
+  [
+  	"513",
+  	"Apparel, Piece Goods, And Notions"
+  ],
+  [
+  	"514",
+  	"Groceries And Related Products"
+  ],
+  [
+  	"515",
+  	"Farm-product Raw Materials"
+  ],
+  [
+  	"516",
+  	"Chemicals And Allied Products"
+  ],
+  [
+  	"517",
+  	"Petroleum And Petroleum Products"
+  ],
+  [
+  	"518",
+  	"Beer, Wine, And Distilled Alcoholic Beverages"
+  ],
+  [
+  	"519",
+  	"Miscellaneous Non-durable Goods"
+  ],
+  [
+  	"521",
+  	"Lumber And Other Building Materials Dealers"
+  ],
+  [
+  	"523",
+  	"Paint, Glass And Wallpaper Stores"
+  ],
+  [
+  	"525",
+  	"Hardware Stores"
+  ],
+  [
+  	"526",
+  	"Retail Nurseries, Lawn And Garden Supply Stores"
+  ],
+  [
+  	"527",
+  	"Mobile Home Dealers"
+  ],
+  [
+  	"531",
+  	"Department Stores"
+  ],
+  [
+  	"533",
+  	"Variety Stores"
+  ],
+  [
+  	"539",
+  	"Miscellaneous General Merchandise Stores"
+  ],
+  [
+  	"541",
+  	"Grocery Stores"
+  ],
+  [
+  	"542",
+  	"Meat And Fish (seafood) Markets, Including"
+  ],
+  [
+  	"543",
+  	"Fruit And Vegetable Markets"
+  ],
+  [
+  	"544",
+  	"Candy, Nut, And Confectionery Stores"
+  ],
+  [
+  	"545",
+  	"Dairy Products Stores"
+  ],
+  [
+  	"546",
+  	"Retail Bakeries"
+  ],
+  [
+  	"549",
+  	"Miscellaneous Food Stores"
+  ],
+  [
+  	"551",
+  	"Motor Vehicle Dealers (new And Used)"
+  ],
+  [
+  	"552",
+  	"Motor Vehicle Dealers (used Only)"
+  ],
+  [
+  	"553",
+  	"Auto And Home Supply Stores"
+  ],
+  [
+  	"554",
+  	"Gasoline Service Stations"
+  ],
+  [
+  	"555",
+  	"Boat Dealers"
+  ],
+  [
+  	"556",
+  	"Recreational Vehicle Dealers"
+  ],
+  [
+  	"557",
+  	"Motorcycle Dealers"
+  ],
+  [
+  	"559",
+  	"Automotive Dealers, Not Elsewhere Classified"
+  ],
+  [
+  	"561",
+  	"Men's And Boys' Clothing And Accessory Stores"
+  ],
+  [
+  	"562",
+  	"Women's Clothing Stores"
+  ],
+  [
+  	"563",
+  	"Women's Accessory And Specialty Stores"
+  ],
+  [
+  	"564",
+  	"Children's And Infants' Wear Stores"
+  ],
+  [
+  	"565",
+  	"Family Clothing Stores"
+  ],
+  [
+  	"566",
+  	"Shoe Stores"
+  ],
+  [
+  	"569",
+  	"Miscellaneous Apparel And Accessory Stores"
+  ],
+  [
+  	"571",
+  	"Home Furniture And Furnishings Stores"
+  ],
+  [
+  	"572",
+  	"Household Appliance Stores"
+  ],
+  [
+  	"573",
+  	"Radio, Television, Consumer Electronics, And Music Stores"
+  ],
+  [
+  	"581",
+  	"Eating And Drinking Places"
+  ],
+  [
+  	"591",
+  	"Drug Stores And Proprietary Stores"
+  ],
+  [
+  	"592",
+  	"Liquor Stores"
+  ],
+  [
+  	"593",
+  	"Used Merchandise Stores"
+  ],
+  [
+  	"594",
+  	"Miscellaneous Shopping Goods Stores"
+  ],
+  [
+  	"596",
+  	"Nonstore Retailers"
+  ],
+  [
+  	"598",
+  	"Fuel Dealers"
+  ],
+  [
+  	"599",
+  	"Retail Stores, Not Elsewhere Classified"
+  ],
+  [
+  	"601",
+  	"Central Reserve Depository Institutions"
+  ],
+  [
+  	"602",
+  	"Commercial Banks"
+  ],
+  [
+  	"603",
+  	"Savings Institutions"
+  ],
+  [
+  	"606",
+  	"Credit Unions"
+  ],
+  [
+  	"608",
+  	"Foreign Banking And Branches And Agencies Of"
+  ],
+  [
+  	"609",
+  	"Functions Related To Depository Banking"
+  ],
+  [
+  	"611",
+  	"Federal And Federally-sponsored Credit Agencies"
+  ],
+  [
+  	"614",
+  	"Personal Credit Institutions"
+  ],
+  [
+  	"615",
+  	"Business Credit Institutions"
+  ],
+  [
+  	"616",
+  	"Mortgage Bankers And Brokers"
+  ],
+  [
+  	"621",
+  	"Security Brokers, Dealers, And Flotation"
+  ],
+  [
+  	"622",
+  	"Commodity Contracts Brokers And Dealers"
+  ],
+  [
+  	"623",
+  	"Security And Commodity Exchanges"
+  ],
+  [
+  	"628",
+  	"Services Allied With The Exchange Of Securities"
+  ],
+  [
+  	"631",
+  	"Life Insurance"
+  ],
+  [
+  	"632",
+  	"Accident And Health Insurance And Medical"
+  ],
+  [
+  	"633",
+  	"Fire, Marine, And Casualty Insurance"
+  ],
+  [
+  	"635",
+  	"Surety Insurance"
+  ],
+  [
+  	"636",
+  	"Title Insurance"
+  ],
+  [
+  	"637",
+  	"Pension, Health, And Welfare Funds"
+  ],
+  [
+  	"639",
+  	"Insurance Carriers, Not Elsewhere Classified"
+  ],
+  [
+  	"641",
+  	"Insurance Agents, Brokers, And Service"
+  ],
+  [
+  	"651",
+  	"Real Estate Operators (except Developers) And Lessors"
+  ],
+  [
+  	"653",
+  	"Real Estate Agents And Managers"
+  ],
+  [
+  	"654",
+  	"Title Abstract Offices"
+  ],
+  [
+  	"655",
+  	"Land Subdividers And Developers"
+  ],
+  [
+  	"671",
+  	"Holding Offices"
+  ],
+  [
+  	"672",
+  	"Investment Offices"
+  ],
+  [
+  	"673",
+  	"Trusts"
+  ],
+  [
+  	"679",
+  	"Miscellaneous Investing"
+  ],
+  [
+  	"701",
+  	"Hotels And Motels"
+  ],
+  [
+  	"702",
+  	"Rooming And Boarding Houses"
+  ],
+  [
+  	"703",
+  	"Camps And Recreational Vehicle Parks"
+  ],
+  [
+  	"704",
+  	"Organization Hotels And Lodging Houses, On"
+  ],
+  [
+  	"721",
+  	"Laundry, Cleaning, And Garment Services"
+  ],
+  [
+  	"722",
+  	"Photographic Studios, Portrait"
+  ],
+  [
+  	"723",
+  	"Beauty Shops"
+  ],
+  [
+  	"724",
+  	"Barber Shops"
+  ],
+  [
+  	"725",
+  	"Shoe Repair Shops And Shoeshine Parlors"
+  ],
+  [
+  	"726",
+  	"Funeral Service And Crematories"
+  ],
+  [
+  	"729",
+  	"Miscellaneous Personal Services"
+  ],
+  [
+  	"731",
+  	"Advertising"
+  ],
+  [
+  	"732",
+  	"Consumer Credit Reporting Agencies, Mercantile"
+  ],
+  [
+  	"733",
+  	"Mailing, Reproduction, Commercial Art And Photography, and Stenographic Services"
+  ],
+  [
+  	"734",
+  	"Services To Dwellings And Other Buildings"
+  ],
+  [
+  	"735",
+  	"Miscellaneous Equipment Rental And Leasing"
+  ],
+  [
+  	"736",
+  	"Personnel Supply Services"
+  ],
+  [
+  	"737",
+  	"Computer Programming, Data Processing, And Other Computer Related Services"
+  ],
+  [
+  	"738",
+  	"Miscellaneous Business Services"
+  ],
+  [
+  	"751",
+  	"Automotive Rental And Leasing, Without Drivers"
+  ],
+  [
+  	"752",
+  	"Automobile Parking"
+  ],
+  [
+  	"753",
+  	"Automotive Repair Shops"
+  ],
+  [
+  	"754",
+  	"Automotive Services, Except Repair"
+  ],
+  [
+  	"762",
+  	"Electrical Repair Shops"
+  ],
+  [
+  	"763",
+  	"Watch, Clock, And Jewelry Repair"
+  ],
+  [
+  	"764",
+  	"Reupholstery And Furniture Repair"
+  ],
+  [
+  	"769",
+  	"Miscellaneous Repair Shops And Related Services"
+  ],
+  [
+  	"781",
+  	"Motion Picture Production And Allied Services"
+  ],
+  [
+  	"782",
+  	"Motion Picture Distribution And Allied Services"
+  ],
+  [
+  	"783",
+  	"Motion Picture Theaters"
+  ],
+  [
+  	"784",
+  	"Video Tape Rental"
+  ],
+  [
+  	"791",
+  	"Dance Studios, Schools, And Halls"
+  ],
+  [
+  	"792",
+  	"Theatrical Producers (except Motion Picture),"
+  ],
+  [
+  	"793",
+  	"Bowling Centers"
+  ],
+  [
+  	"794",
+  	"Commercial Sports"
+  ],
+  [
+  	"799",
+  	"Miscellaneous Amusement And Recreation"
+  ],
+  [
+  	"801",
+  	"Offices And Clinics Of Doctors Of Medicine"
+  ],
+  [
+  	"802",
+  	"Offices And Clinics Of Dentists"
+  ],
+  [
+  	"803",
+  	"Offices And Clinics Of Doctors Of Osteopathy"
+  ],
+  [
+  	"804",
+  	"Offices And Clinics Of Other Health Practitioners"
+  ],
+  [
+  	"805",
+  	"Nursing And Personal Care Facilities"
+  ],
+  [
+  	"806",
+  	"Hospitals"
+  ],
+  [
+  	"807",
+  	"Medical And Dental Laboratories"
+  ],
+  [
+  	"808",
+  	"Home Health Care Services"
+  ],
+  [
+  	"809",
+  	"Miscellaneous Health And Allied Services, Not"
+  ],
+  [
+  	"811",
+  	"Legal Services"
+  ],
+  [
+  	"821",
+  	"Elementary And Secondary Schools"
+  ],
+  [
+  	"822",
+  	"Colleges, Universities, Professional Schools, And"
+  ],
+  [
+  	"823",
+  	"Libraries"
+  ],
+  [
+  	"824",
+  	"Vocational Schools"
+  ],
+  [
+  	"829",
+  	"Schools And Educational Services, Not Elsewhere"
+  ],
+  [
+  	"832",
+  	"Individual And Family Social Services"
+  ],
+  [
+  	"833",
+  	"Job Training And Vocational Rehabilitation"
+  ],
+  [
+  	"835",
+  	"Child Day Care Services"
+  ],
+  [
+  	"836",
+  	"Residential Care"
+  ],
+  [
+  	"839",
+  	"Social Services, Not Elsewhere Classified"
+  ],
+  [
+  	"841",
+  	"Museums And Art Galleries"
+  ],
+  [
+  	"842",
+  	"Arboreta And Botanical Or Zoological Gardens"
+  ],
+  [
+  	"861",
+  	"Business Associations"
+  ],
+  [
+  	"862",
+  	"Professional Membership Organizations"
+  ],
+  [
+  	"863",
+  	"Labor Unions And Similar Labor Organizations"
+  ],
+  [
+  	"864",
+  	"Civic, Social, And Fraternal Associations"
+  ],
+  [
+  	"865",
+  	"Political Organizations"
+  ],
+  [
+  	"866",
+  	"Religious Organizations"
+  ],
+  [
+  	"869",
+  	"Membership Organizations, Not Elsewhere"
+  ],
+  [
+  	"871",
+  	"Engineering, Architectural, And Surveying"
+  ],
+  [
+  	"872",
+  	"Accounting, Auditing, And Bookkeeping Services"
+  ],
+  [
+  	"873",
+  	"Research, Development, And Testing Services"
+  ],
+  [
+  	"874",
+  	"Management And Public Relations Services"
+  ],
+  [
+  	"881",
+  	"Private Households"
+  ],
+  [
+  	"899",
+  	"Miscellaneous Services"
+  ],
+  [
+  	"911",
+  	"Executive Offices"
+  ],
+  [
+  	"912",
+  	"Legislative Bodies"
+  ],
+  [
+  	"913",
+  	"Executive And Legislative Offices Combined"
+  ],
+  [
+  	"919",
+  	"General Government, Not Elsewhere Classified"
+  ],
+  [
+  	"921",
+  	"Courts"
+  ],
+  [
+  	"922",
+  	"Public Order And Safety"
+  ],
+  [
+  	"931",
+  	"Public Finance, Taxation, And Monetary Policy"
+  ],
+  [
+  	"941",
+  	"Administration Of Educational Programs"
+  ],
+  [
+  	"943",
+  	"Administration Of Public Health Programs"
+  ],
+  [
+  	"944",
+  	"Administration Of Social, Human Resource And"
+  ],
+  [
+  	"945",
+  	"Administration Of Veteran's Affairs, Except"
+  ],
+  [
+  	"951",
+  	"Administration Of Environmental Quality"
+  ],
+  [
+  	"953",
+  	"Administration Of Housing And Urban"
+  ],
+  [
+  	"961",
+  	"Administration Of General Economic Programs"
+  ],
+  [
+  	"962",
+  	"Regulation And Administration Of Transportation"
+  ],
+  [
+  	"963",
+  	"Regulation And Administration Of"
+  ],
+  [
+  	"964",
+  	"Regulation Of Agricultural Marketing And"
+  ],
+  [
+  	"965",
+  	"Regulation, Licensing, And Inspection Of"
+  ],
+  [
+  	"966",
+  	"Space Research And Technology"
+  ],
+  [
+  	"971",
+  	"National Security"
+  ],
+  [
+  	"972",
+  	"International Affairs"
+  ],
+  [
+  	"999",
+  	"Nonclassifiable Establishments"
+  ]
+]

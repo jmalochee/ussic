@@ -1,0 +1,25 @@
+{
+  "divisions": {
+    "division_code": "string, key",
+    "division_name": "string",
+    "division_definition": "string"
+  },
+  "major_groups": {
+    "major_group_code": "string, key",
+    "major_group_name": "string",
+    "major_group_definition": "string"
+  },
+  "industry_groups": {
+    "industry_group_code": "string, key",
+    "industry_group_name": "string"
+  },
+  "industries": {
+    "industry_code": "string, key",
+    "industry_name": "string",
+    "division_code": "string",
+    "major_group_code": "string",
+    "industry_group_code": "string",
+    "industry_definition": "string",
+    "industry_definition_list": "array of strings"
+  }
+}
