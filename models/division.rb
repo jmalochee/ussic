@@ -1,3 +1,3 @@
 class Division < ActiveRecord::Base
-  has_many :major_groups
+  self.primary_key = 'code'
 end
