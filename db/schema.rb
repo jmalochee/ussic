@@ -11,7 +11,8 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170406220739) do
+ActiveRecord::Schema.define(version: 20170406220746) do
+
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -23,6 +24,15 @@ ActiveRecord::Schema.define(version: 20170406220739) do
   end
 
   add_index "divisions", ["code"], name: "index_divisions_on_code", unique: true, using: :btree
+
+  create_table "industries", primary_key: "code", force: :cascade do |t|
+    t.string  "name",                null: false
+    t.integer "division_code",       null: false
+    t.integer "major_group_code",    null: false
+    t.integer "industry_group_code", null: false
+    t.string  "definition",          null: false
+    t.text    "definition_list"
+  end
 
   create_table "industry_groups", primary_key: "code", force: :cascade do |t|
     t.string "name", null: false
