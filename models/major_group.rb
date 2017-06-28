@@ -3,6 +3,7 @@ class MajorGroup < ActiveRecord::Base
   validates :name, presence: true
   validates :definition, presence: true
 
-  belongs_to :division
   has_many :industries
+  has_many :industry_groups, through: :industries
+  belongs_to :division, through: :industries
 end
