@@ -3,6 +3,6 @@ class IndustryGroup < ActiveRecord::Base
   validates :name, presence: true
 
   has_many :industries
-  belongs_to :major_group, through: :industries
-  belongs_to :division, through: :industries
+  has_one :major_group, through: :industries
+  has_one :division, through: :industries
 end
