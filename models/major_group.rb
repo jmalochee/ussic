@@ -5,5 +5,5 @@ class MajorGroup < ActiveRecord::Base
 
   has_many :industries
   has_many :industry_groups, through: :industries
-  belongs_to :division, through: :industries
+  has_one :division, through: :industries
 end
